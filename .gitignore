@@ -1,0 +1,11 @@
+# build output
+hexdraw.jar
+linux-amd64/
+
+# runtime files
+exports/
+hex_spells.txt
+config.json
+
+# local only
+debug/
